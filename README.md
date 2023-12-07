@@ -2,6 +2,7 @@
 
 Practicing Angular 16 just for fun:
 
+```
 build."configurations": {
             "development": {
               "optimization": false,
@@ -23,11 +24,16 @@ build."configurations": {
                 }
               ]
             },
+```
 
+
+```
 serve."configurations": {
             "development": {
               "browserTarget": "demo:build:development"
             },            
+```
+The above things are done in project.
 
 npm install --no-fund
 
