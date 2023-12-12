@@ -39,6 +39,8 @@ npm install -g @angular/cli --no-fund
 
 npm install --no-fund
 
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+
 ng build --configuration development
 
 ng serve --configuration development
