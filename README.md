@@ -35,7 +35,7 @@ serve."configurations": {
 ```
 The above things are done in project.
 
-npm install -g @angular/cli
+npm install -g @angular/cli --no-fund
 
 npm install --no-fund
 
